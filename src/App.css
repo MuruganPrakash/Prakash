@@ -1,0 +1,29 @@
+*{
+  font-size: 25px;
+}
+.container{
+  background-color: antiquewhite;
+  width: 40%;
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  text-align: center;
+}
+button{
+  padding: 5px;
+  border-radius: 8px;
+  background-color:black;
+  color: white;
+}
+h1,h3{
+  text-align: center;
+}
+input{
+  text-align: center;
+  border-radius: 30px;
+  width:50%;
+}
+#list{
+  display: inline-block;
+  text-align:left;
+}

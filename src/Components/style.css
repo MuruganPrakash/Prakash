@@ -1,0 +1,9 @@
+#contain
+{
+    text-align: center;
+    width:600px;
+    height: 400px;
+    background-color:aliceblue;
+    opacity: 0.8;
+    border-radius: 10px;
+}
